@@ -2,7 +2,7 @@
   "name": "MM Enterprises — Business Suite",
   "short_name": "MM Enterprises",
   "description": "Business Management Software — Billing, Inventory, Accounts & Reports",
-  "start_url": "./MM_Enterprises.html",
+  "start_url": "./",
   "display": "standalone",
   "background_color": "#1e3a8a",
   "theme_color": "#1e3a8a",
@@ -18,9 +18,9 @@
     }
   ],
   "shortcuts": [
-    {"name": "New Sale Bill", "url": "./MM_Enterprises.html#bill", "description": "Create a new sale invoice"},
-    {"name": "Inventory", "url": "./MM_Enterprises.html#inv", "description": "View stock levels"},
-    {"name": "Day Book", "url": "./MM_Enterprises.html#daybook", "description": "Today transactions"}
+    {"name": "New Sale Bill", "url": "url": "./#bill", "description": "Create a new sale invoice"},
+    {"name": "Inventory", "url": "./#inv", "description": "View stock levels"},
+    {"name": "Day Book", "url": "./#daybook", "description": "Today transactions"}
   ],
   "screenshots": []
 }
